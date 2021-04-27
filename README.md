@@ -39,17 +39,17 @@ Technical grants are intended to fund Neo related projects in the following area
 
 The Neo protocol is primarily developed by the Neo Core Developer team and NGD Shanghai. 
 
-If you want to contribute to the Neo protocol, you can refer to the [Neo Core Developer Grants Program](https://github.com/gracegui43/Neo-Grants/blob/master/Neo%20Core%20Developer%20Grants%20Program.md).
+If you want to contribute to the Neo protocol, you can refer to the [Neo Core Developer Grants Program](https://github.com/gracegui43/Neo-Grants/blob/main/Neo%20Core%20Developer%20Grants%20Program.md).
 
 ### Tools & Infrastructure Development
 
-If you want to contribute to Tools & Infrastructure development, you can apply for the [Neo General Grants Program](https://github.com/gracegui43/Neo-Grants/blob/master/Neo%20General%20Grants%20Program.md). 
+If you want to contribute to Tools & Infrastructure development, you can apply for the [Neo General Grants Program](https://github.com/gracegui43/Neo-Grants/blob/main/Neo%20General%20Grants%20Program.md). 
 
-For more specific information on the grant funding priorities, please view the [Neo Stack](https://github.com/gracegui43/Neo-Grants/blob/master/Neo%20Stack.md) and review the [Accepted Grant Applications](https://github.com/gracegui43/Neo-Grants/blob/master/Accepted%20Grant%20Applications.md). 
+For more specific information on the grant funding priorities, please view the [Neo Stack](https://github.com/gracegui43/Neo-Grants/blob/main/Neo%20Stack.md) and review the [Accepted Grant Applications](https://github.com/gracegui43/Neo-Grants/blob/main/Accepted%20Grant%20Applications.md). 
 
 ### Research
 
-If you want to contribute to Research initiatives, you can apply for the [Neo Research Grants Program](https://github.com/gracegui43/Neo-Grants/blob/master/Neo%20Research%20Grants%20Program.md).
+If you want to contribute to Research initiatives, you can apply for the [Neo Research Grants Program](https://github.com/gracegui43/Neo-Grants/blob/main/Neo%20Research%20Grants%20Program.md).
 
 
 
