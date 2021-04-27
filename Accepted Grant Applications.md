@@ -2,7 +2,7 @@
 
 Since 2017, the Neo Foundation has supported more than 10 global open-source development communities. This page provides an overview of accepted grants and a link to their GitHub pages. For projects that have received multiple rounds of funding, we only list them with the year in which they were first funded. Keep in mind that not all of the approved grants may have resulted in working software at this time. 
 
-After the Neo N3 launch, we will expand the scope of funding and additionally increase the number of teams who globally contribute to and participate in Neo's ecosystem development, using a project-based grant model. If you are a blockchain enthusiast or entity with the passion and energy to change the world through the Neo ecosystem, you can apply for the [Neo General Grants Program](https://github.com/gracegui43/Neo-Grants/blob/master/Neo%20General%20Grants%20Program.md).
+After the Neo N3 launch, we will expand the scope of funding and additionally increase the number of teams who globally contribute to and participate in Neo's ecosystem development, using a project-based grant model. If you are a blockchain enthusiast or entity with the passion and energy to change the world through the Neo ecosystem, you can apply for the [Neo General Grants Program](https://github.com/gracegui43/Neo-Grants/blob/main/Neo%20General%20Grants%20Program.md).
 
   
 

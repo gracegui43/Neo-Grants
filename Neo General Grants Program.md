@@ -26,7 +26,7 @@
 
 The Neo General Grants Program is primarily focused on funding the development of tools and infrastructure for the Neo Blockchain. For more info about other **Neo Grants**, please visit our [Neo Grants page](https://github.com/gracegui43/Neo-Grants) on GitHub to get detailed information. 
 
-The Neo Foundation tends to support teams for excellent blockchain software development initiatives. We expect teams and deliverables to be **adoption-driven**, **developer-friendly**, **delivered on-time** and **provide value to the Neo ecosystem**. For more specific information on our funding priorities, please take a look at the [Neo Stack](https://github.com/gracegui43/Neo-Grants/blob/master/Neo%20Stack.md) and our [Accepted Grant Applications](https://github.com/gracegui43/Neo-Grants/blob/master/Accepted%20Grant%20Applications.md). Some examples of the components we deem high priority are marked in the [Neo Stack](https://github.com/gracegui43/Neo-Grants/blob/master/Neo%20Stack.md).
+The Neo Foundation tends to support teams for excellent blockchain software development initiatives. We expect teams and deliverables to be **adoption-driven**, **developer-friendly**, **delivered on-time** and **provide value to the Neo ecosystem**. For more specific information on our funding priorities, please take a look at the [Neo Stack](https://github.com/gracegui43/Neo-Grants/blob/main/Neo%20Stack.md) and our [Accepted Grant Applications](https://github.com/gracegui43/Neo-Grants/blob/main/Accepted%20Grant%20Applications.md). Some examples of the components we deem high priority are marked in the [Neo Stack](https://github.com/gracegui43/Neo-Grants/blob/main/Neo%20Stack.md).
 
 
 
@@ -83,7 +83,7 @@ If a project that has received a grant can no longer be properly maintained, its
 ## Application & Evaluation
 ### Grant Application
 
-Use the [Grant Application Template](https://github.com/gracegui43/Neo-Grants/blob/master/Grant%20Application%20Template.md) to fill in the details of the proposed project and send it to [grants@neo.org](mailto:grants@neo.org). The Neo Foundation Grants Committee will contact the team within approximately two weeks of receipt of the application.
+Use the [Grant Application Template](https://github.com/gracegui43/Neo-Grants/blob/main/Grant%20Application%20Template.md) to fill in the details of the proposed project and send it to [grants@neo.org](mailto:grants@neo.org). The Neo Foundation Grants Committee will contact the team within approximately two weeks of receipt of the application.
 
 ### Application Review
 

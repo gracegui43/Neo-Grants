@@ -19,14 +19,14 @@ The Neo mission is to build the premier Digital Asset platform to realize our vi
 ## Funding
 In order to promote the growth and evolution of the Neo ecosystem, the Neo Foundation offers comprehensive [Neo Grants](https://github.com/gracegui43/Neo-Grants) to support software development and research efforts related to Neo. 
 
-[Neo General Grants Program](https://github.com/gracegui43/Neo-Grants/blob/master/Neo%20General%20Grants%20Program.md) is focused on funding projects to build out the layers of the Neo Stack.  **According Neo's periodical roadmap and focus, we will update Neo Stack with potential interested projects and corresponding priority.** The Neo Foundation tends to support teams for excellent blockchain software development. **Projects that fill gaps in the current ecosystem, or projects that demonstrate extraordinary value over existing projects, will be given priority.**  Such value could be in many forms including but not limited to differentiated functionality, superior user experience, attracting new developers and users to the ecosystem or leading to a higher likelihood of the long-term sustainability of the ecosystem.
+[Neo General Grants Program](https://github.com/gracegui43/Neo-Grants/blob/main/Neo%20General%20Grants%20Program.md) is focused on funding projects to build out the layers of the Neo Stack.  **According Neo's periodical roadmap and focus, we will update Neo Stack with potential interested projects and corresponding priority.** The Neo Foundation tends to support teams for excellent blockchain software development. **Projects that fill gaps in the current ecosystem, or projects that demonstrate extraordinary value over existing projects, will be given priority.**  Such value could be in many forms including but not limited to differentiated functionality, superior user experience, attracting new developers and users to the ecosystem or leading to a higher likelihood of the long-term sustainability of the ecosystem.
 
 
 
 ## Layers of Neo Stack
 We look for innovative, pioneering approaches to enhance the Neo Stack. If you are looking for direction, please see below for an illustrative view of the layers that comprise the Neo stack.
 
-If you believe that we should sponsor the development of certain tools/projects related to Neo that aren't currently in the [Neo Stack](https://github.com/gracegui43/Neo-Grants/blob/master/Neo%20Stack.md), then please feel free to submit a new pull request addressing the proposal. We will review your proposal and if the team deems it to be a priority then it will be added to the Neo Stack.
+If you believe that we should sponsor the development of certain tools/projects related to Neo that aren't currently in the [Neo Stack](https://github.com/gracegui43/Neo-Grants/blob/main/Neo%20Stack.md), then please feel free to submit a new pull request addressing the proposal. We will review your proposal and if the team deems it to be a priority then it will be added to the Neo Stack.
 
 ### Protocol Layer
 Component|Existing Projects|Potentially idea or projects|Priority
