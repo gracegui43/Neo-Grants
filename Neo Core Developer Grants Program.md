@@ -118,11 +118,11 @@ Existing Core Developers can recommend suitable candidates in the Core Developer
 
 **3. Initial Review & Trial Period**
 
-Once the application is submitted, the current Core Developer team will review it. If more than half of the Core Developers agree, the applicant will be nominated as a Core Developer Candidate and start a 3-month trial period. During the trial period, the Candidate needs to contribute and prove himself/herself qualified and will receive the Contribution Reward accordingly. 
+Once the application is submitted, the current Core Developer team will review it. If more than half of the Core Developers agree, the applicant will be nominated as a Core Developer Candidate and start a 3-month trial period. During the trial period, the Candidate needs to contribute and prove himself/herself qualified and will receive the Fellowship Reward. 
 
 **4. Evaluation**
 
-After 3 months, the Neo Foundation will evaluate the Candidate's performance and decide whether to endorse him/her in the role of an official Core Developer. Once the Candidate becomes an official Core Developer, his/her information will be added to the Core Developer list, he/she will get the GitHub `write` permission and begin to receive the Fellowship Reward. 
+After 3 months, the Neo Foundation will evaluate the Candidate's performance and decide whether to endorse him/her in the role of an official Core Developer. Once the Candidate becomes an official Core Developer, his/her information will be added to the Core Developer list, he/she will get the GitHub `write` permission and begin to receive the Contribution Reward. 
 
 
 
